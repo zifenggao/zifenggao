@@ -1,6 +1,6 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+~)](https://git.io/typing-svg)
 
-![Metrics](https://metrics.lecoq.io/zifenggao?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zifenggao&theme=radical)](https://github.com/zifenggao/github-readme-stats)
 
 <!--
 **zifenggao/zifenggao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
