@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+~)](https://git.io/typing-svg)
+## 👨‍💻 Hello
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zifenggao&theme=radical)](https://github.com/zifenggao/github-readme-stats)
 
